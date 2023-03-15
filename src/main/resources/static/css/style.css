@@ -4,8 +4,13 @@ background:white;
 }
 header {
 display:block;
-background:#d7e0e9;
+background: #A2DBFC;
 padding:10px 0px;
+color: #fff;
+text-align: center;
+}
+title {
+
 }
 section {
 width: 79%;
@@ -21,7 +26,7 @@ margin-top: -50px;
 height: 40px;
 padding:5px 0px;
 clear: both;
-background: #d7e0e9;
+background: #A2DBFC;
 text-align: center;
-color: black;
+color: #000;
 }
